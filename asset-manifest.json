@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/divergencemeter/static/css/main.19428876.css",
-    "main.js": "/divergencemeter/static/js/main.474baf30.js",
+    "main.js": "/divergencemeter/static/js/main.d3c0a5c0.js",
     "static/js/787.5563abd3.chunk.js": "/divergencemeter/static/js/787.5563abd3.chunk.js",
     "static/media/0.130262.jpg": "/divergencemeter/static/media/0.130262.0b8f5f0535ea488f800a.jpg",
     "static/media/0.939253.jpg": "/divergencemeter/static/media/0.939253.34d4267040c2439376c5.jpg",
@@ -16,11 +16,11 @@
     "static/media/1.130211.jpg": "/divergencemeter/static/media/1.130211.32a77bd24e44ace9d87b.jpg",
     "index.html": "/divergencemeter/index.html",
     "main.19428876.css.map": "/divergencemeter/static/css/main.19428876.css.map",
-    "main.474baf30.js.map": "/divergencemeter/static/js/main.474baf30.js.map",
+    "main.d3c0a5c0.js.map": "/divergencemeter/static/js/main.d3c0a5c0.js.map",
     "787.5563abd3.chunk.js.map": "/divergencemeter/static/js/787.5563abd3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19428876.css",
-    "static/js/main.474baf30.js"
+    "static/js/main.d3c0a5c0.js"
   ]
 }
